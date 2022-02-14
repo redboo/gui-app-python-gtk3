@@ -2,6 +2,8 @@
 
 [Source](https://youtu.be/Ko0NTS0IpfI)
 
+![plotter_screenshot](./plotter_screenshot.png)
+
 ## Get Started
 
 ### Windows
